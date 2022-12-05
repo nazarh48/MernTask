@@ -9,7 +9,7 @@ const Divider = () => {
   return (
     <div>
       <h3>Divider</h3>
-      <p>{`${divData} * ${myData}`}</p>
+      <p>{`${divData} / ${myData}`}</p>
       <p>{divData/myData}</p>
       
     </div>
